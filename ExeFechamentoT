@@ -1,0 +1,20 @@
+1)a)É um problema onde há duas soluções possíveis: sim e não;
+
+b)Máquina de Turing M = (Σ, Q, δ, q ) decide uma linguagem L se, para todo x L, ∈N (x) = sim, e, para todo x L, ∉N (x) = não.
+
+c)Um problema é decidivel se a maquina decide uma linguagem para toda entrada contida na linguagem; e é indecidível se M(x) = sim para todo x L e M(x) = NaoPara para todo x L.
+
+2)Significa que a saída de A pode ser utilizada como entrada do problema B.
+
+3)a)F;
+b)V;
+c)V;
+d)F;
+
+4)a)V;
+b)F;
+c)
+d)
+e)F;
+f)?;
+g)V;
